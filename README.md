@@ -8,7 +8,7 @@
 
 ## ***INSTALLATION***
 
-* You can install this project in [ANNALYSIS IRIS DATA](https://github.com/ThadaPhan/Analysis_Iris-data-set_By_KMean-Cluster_With_Python.git)
+* You can install this project in [ANNALYSIS IRIS DATA](https://github.com/TrieanNguyen/Python.git)
 
 ## ***BUILD***
 
